@@ -10,5 +10,8 @@ package com.mycompany.gtest1;
  * @author ma
  */
 public class Model1 {
+    public void m2() {
+        
+    }
     
 }
