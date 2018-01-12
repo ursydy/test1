@@ -14,4 +14,8 @@ public class Model1 {
         
     }
     
+    public void m3() {
+        
+    }
+    
 }
