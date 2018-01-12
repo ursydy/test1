@@ -13,6 +13,9 @@ public class Model1 {
     public void m2() {
         
     }
+    public void m5() {
+        
+    }
     
     public void m3() {
         
